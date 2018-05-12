@@ -1,0 +1,33 @@
+_repo: A-Study-of-Recent-Earthquakes_25062
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davison, Charles
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '28381'
+    url: http://www.gutenberg.org/2009/agents/28381
+description: ''
+gutenberg_issued: '2008-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Earthquakes'
+- !lcc 'QE'
+tableOfContents: I. Introduction -- II. The Neapolitan earthquake of December 16th,
+  1857 -- III. The Ischian earthquakes of March 4th, 1881, and July 28th, 1883 --
+  IV. The Andalusian earthquake of December 25th, 1884 -- V. The Charleston earthquake
+  of August 31st, 1886 -- VI. The Riviera earthquake of February 23rd, 1887 -- VII.
+  The Japanese earthquake of October 28th, 1891 -- VIII. The Hereford earthquake of
+  December 17th, 1896, and the Inverness earthquake of September 18th, 1901 -- IX.
+  The Indian earthquake of June 12th, 1897 -- X. Conclusion.
+title: A Study of Recent Earthquakes
+url: http://www.gutenberg.org/ebooks/25062
