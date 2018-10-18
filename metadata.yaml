@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Earthquakes'
 - !lcc 'QE'
+- GITenberg
 tableOfContents: I. Introduction -- II. The Neapolitan earthquake of December 16th,
   1857 -- III. The Ischian earthquakes of March 4th, 1881, and July 28th, 1883 --
   IV. The Andalusian earthquake of December 25th, 1884 -- V. The Charleston earthquake
